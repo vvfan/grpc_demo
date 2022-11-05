@@ -11,7 +11,7 @@ import (
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"
-	services "vvfan/grpc_demo.git/micro_server/services"
+	services "vvfan/grpc_demo/micro_server/services"
 )
 
 // This is a compile-time assertion to ensure that this generated file

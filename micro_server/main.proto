@@ -1,7 +1,5 @@
 syntax = "proto3";
-option go_package = "vvfan/grpc_demo.git/micro_server;micro_server_package";
-
-
+option go_package = "vvfan/grpc_demo/micro_server;micro_server_package";
 package micro_server;
 
 import "micro_server/services/other.proto";
